@@ -1,0 +1,6 @@
+RfCommand    KEYWORD1
+Rf           KEYWORD1
+getContact   KEYWORD2
+getCommand   KEYWORD2
+sendCommand  KEYWORD2
+readCommand  KEYWORD2
